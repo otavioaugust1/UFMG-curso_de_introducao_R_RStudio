@@ -4,11 +4,13 @@
 
 ### Projeto: Carga Global de Doenças - Mortalidade por Municípios
 
-Treinamento
-Introdução ao Programa RStudio
+Treinamento Introdução ao Programa RStudio
+
 Período: 24 a 26 de maio de 2023
+
 Horário: 09:00 às 12:00
-Professores: Regina Bernal 
+
+Professores: Regina Bernal /
 
 
 ## Objetivo: 
@@ -27,7 +29,18 @@ Recomendações para os participantes:
 5. Gravar os arquivos no diretório de trabalho que será utilizado para o treinamento.
 
 ## Material:
-O participante terá acesso a apostila com o conteúdo da primeira aula e os demais conteúdos serão construídos no programa Rstudio.
+O participante terá acesso a apostila com o conteúdo da primeira aula e os demais conteúdos serão construídos no programa Rstudio. (disponviel em \doc)
+
+
+## Instalação de pacotes
+```
+install.packages("tidyverse")
+```
+
+* install.packages("summarytools")
+* install.packages("devtools")
+ * devtools::install_github("danicat/read.dbc") (https://github.com/danicat/read.dbc)
+
 
 
 ## Programa das aulas
