@@ -24,6 +24,16 @@ library(read.dbc)
 
 df_SIMAC = read.dbc("C:/Users/otavi/R/doc/DOAC2021.dbc")
 
+# Verificar os tios de variaveis 
+str(df_SIMAC)
+
+# duplicitade de registros
+dup = duplicidad(df_SIMAC)
+dup
+
+#tabela 
+
+
 
 
 

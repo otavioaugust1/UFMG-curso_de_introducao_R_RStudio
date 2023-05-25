@@ -1,5 +1,6 @@
 # UFMG-curso_de_introducao_R_RStudio / curso de introdução da linguagem R e RStudio pela UFMG
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=VERSION&message=1.0.0&color=BLUE&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/otavioaugust1?style=social)
 
 ### Projeto: Carga Global de Doenças - Mortalidade por Municípios
@@ -20,6 +21,7 @@ Recomendações para os participantes:
  
 1. Instalar os programas R e Rstudio no seu computador.   Link: https://posit.co/download/rstudio-desktop/
 
+<img src='img\r.jpg'>
 
 2. Criar um diretório de trabalho para o treinamento. 
 
