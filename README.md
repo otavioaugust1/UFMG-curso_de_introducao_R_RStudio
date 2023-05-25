@@ -21,7 +21,7 @@ Recomendações para os participantes:
  
 1. Instalar os programas R e Rstudio no seu computador.   Link: https://posit.co/download/rstudio-desktop/
 
-<img src='img\r.jpg'>
+<img src='img\R.jpg'>
 
 2. Criar um diretório de trabalho para o treinamento. 
 

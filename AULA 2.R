@@ -16,21 +16,21 @@
 
 
 
-funcao_media = function(vetor){
-  soma_vetor = sum(vetor)
-  nobs = length(vetor)
-  media_vetor = soma_vetor/nobs
+funcao_media <- function(vetor){
+  soma_vetor <- sum(vetor)
+  nobs <- length(vetor)
+  media_vetor <- soma_vetor / nobs
   return(media_vetor)
 }
 
-media_idade = funcao_media(idade)
+media_idade <- funcao_media(idade)
 media_idade
 
 #criar um novo vector
 
 set.seed(10)
-renda = runif(200, min=1000, max=10000)
-renda_media = funcao_media(renda)
+renda <- runif(200, min = 1000, max = 10000)
+renda_media <- funcao_media(renda)
 renda_media
 
 # -----------------------------------------------
