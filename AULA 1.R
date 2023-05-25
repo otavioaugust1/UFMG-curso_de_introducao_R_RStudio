@@ -276,7 +276,7 @@ rm(list=ls())
 # vetor2 = Joao, Maria, Carlos
 # vetor3 = TRUE, FALSE, TRUE
 
-vetor1 = c(25,59,30)
+vetor1 <- c(25,59,30)
 vetor2 = c("Joao","Maria","Carlos")
 vetor3 = c(TRUE, FALSE, TRUE)
 

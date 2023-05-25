@@ -54,10 +54,22 @@ result
 
 
 
+# verificar se o valor eh missing
+is.na(idade)
 
+age.cat = function(age){
+  result = 5*(age %/% 5)
+  nove = age>90
+  na = (is.na(age))
+  result[nove] = 90
+  result[na] = NA
+  return(result)
+}
 
+# criar um objeto fet
+fet = age.cat(idade)
+fet 
 
-
-
+table(fet)
 
 
