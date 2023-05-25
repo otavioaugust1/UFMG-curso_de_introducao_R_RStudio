@@ -50,18 +50,18 @@ lembrando que a leitura de arquivo DBC é um projeto da pesquisadora *Daniela Pe
 
 ## Programa das aulas
 
-### <a herf=''>  DIA 24 - LINK DO MATERIAL</a>
+### <a herf='https://github.com/otavioaugust1/UFMG-curso_de_introducao_R_RStudio/blob/main/AULA_1.md'>  DIA 24 - LINK DO MATERIAL</a>
 * Introdução ao R
 * Pacotes R
 * Importar bases de dados
 * Exercícios práticos no Rstudio.
 
-### dia 25
+### <a herf='https://github.com/otavioaugust1/UFMG-curso_de_introducao_R_RStudio/blob/main/AULA_2.md'>  DIA 25 - LINK DO MATERIAL</a>
 * Avaliação da consistência dos dados.
 * Tratamento das variáveis.
 * Exercícios práticos no Rstudio.
 
-### dia 26
+### <a herf='https://github.com/otavioaugust1/UFMG-curso_de_introducao_R_RStudio/blob/main/AULA_3.md'>  DIA 26 - LINK DO MATERIAL</a>
 * Manipulação de bases de dados.
 * Salvar e exportar arquivos.
 * Exercícios práticos no Rstudio.
