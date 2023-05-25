@@ -50,7 +50,7 @@ lembrando que a leitura de arquivo DBC é um projeto da pesquisadora *Daniela Pe
 
 ## Programa das aulas
 
-### dia 24
+### <a herf=''>  DIA 24 - LINK DO MATERIAL</a>
 * Introdução ao R
 * Pacotes R
 * Importar bases de dados
