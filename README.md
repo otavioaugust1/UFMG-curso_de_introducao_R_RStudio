@@ -9,7 +9,7 @@
 <p>Treinamento Introdução ao Programa RStudio</p>
 <p>Período: 24 a 26 de maio de 2023</p>
 <p>Horário: 09:00 às 12:00</p>
-<p>Professores: Regina Bernal /</p>
+<p>Professores: <a href="https://www.linkedin.com/in/regina-t-i-bernal-36a85241/">Regina Bernal</a> / </p>
 
 
 <h2> Objetivo: </h2>

@@ -3,7 +3,7 @@
 ------------------------------------
 Este texto apresenta os roteiros deste site que utilizam o R, um ambiente de programação estatística gratuito e de código aberto. O R é uma linguagem poderosa e flexível para análise e visualização de dados. Para seguir os roteiros, não é necessário saber programar em R, mas é aconselhável se familiarizar com a sua lógica e a forma de executar comandos.
 
-Este guia foi elaborado por Otavio Augusto, durante as aulas de Regina Bernal (Professora de Estatística - MBA DATA SCIENCE (FIAP)). É uma introdução voltada para quem nunca teve contato com o ambiente R.
+Este guia foi elaborado por <a href="https://www.linkedin.com/in/otavioaugust/">Otavio Augusto</a>, durante as aulas de <a href="https://www.linkedin.com/in/regina-t-i-bernal-36a85241/">Regina Bernal</a> (Professora de Estatística - MBA DATA SCIENCE (FIAP)). É uma introdução voltada para quem nunca teve contato com o ambiente R.
 
 ## Aula 1
 ------------------------------------
